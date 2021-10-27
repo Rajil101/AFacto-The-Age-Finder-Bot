@@ -1,5 +1,55 @@
 # Age-Finder-Bot
-Age Finder Bot can help peoples of different ages to find their age within few seconds.
-You need to open .xaml in uipath studio to run and make changes.
-In Main.xaml to will be able to acces on find age process ,but in Age finder.xaml you will see different layout which also can use as finding age on the basis of their class they studying .
-For better understanding you can watch my age finder videos on my LinkedIn profile -https://www.linkedin.com/in/rajiljain
+
+These is a Age Finder Bot which can help people of different ages to find their age within few seconds.
+
+•Main.xaml will be able to find age by normal find age process,
+
+•Age finder.xaml will see different layout which can be use for finding age on the basis of their class they studying/ed,
+
+******************************************************
+******************************************************
+•In these automation I used - 
+
+•**input dialog**,
+
+•**assisgn**,
+
+•**message box**,
+
+•**if-else condition**.
+
+******************************************************
+******************************************************
+
+• "**Initialisation**"
+
+![](images/Screenshot1.png)
+
+• "**Middle condition**"
+
+![](images/Screenshot2.png)
+
+• "**Output**"
+
+![](images/Screenshot3.png)
+
+******************************************************
+******************************************************
+
+•**Output Process**
+
+•Input Prompt
+
+![](images/prompt1.png)
+
+•Enter Details Prompt
+
+![](images/prompt2.png)
+
+•Message Print Prompt
+
+![](images/prompt3.png)
+
+•You need to open .xaml in uipath studio to run and make changes.
+
+*For better understanding you can watch my age finder videos on my LinkedIn profile -https://www.linkedin.com/in/rajiljain
