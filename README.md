@@ -1,6 +1,6 @@
-# Age-Finder-Bot
+# AFacto-Age-Finder-Bot
 
-These is a Age Finder Bot which can help people of different ages to find their age within few seconds.
+These is a Age Finder Bot which can help people of different ages to find their age within few seconds accuratly with privacy protection of your personal data.
 
 •Main.xaml will be able to find age by normal find age process,
 
